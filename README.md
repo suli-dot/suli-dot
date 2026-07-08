@@ -65,3 +65,16 @@ Android-приложение на Kotlin.
 </td>
 </tr>
 </table>
+
+---
+
+### 📊 Активность
+
+![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suli-dot&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=suli-dot&theme=dark&hide_border=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suli-dot/suli-dot/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suli-dot/suli-dot/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/suli-dot/suli-dot/output/github-contribution-grid-snake.svg" />
+</picture>
