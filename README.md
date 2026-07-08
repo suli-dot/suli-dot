@@ -18,3 +18,50 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+
+---
+
+### 🚀 Проекты
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🎮 **MegabonkMobile**
+
+Кроссплатформенная 3D Action-Roguelite / Survivor-like игра для Windows и Android.
+**Stack:** `C#` `Unity`
+[→ Repository](https://github.com/suli-dot/MegabonkMobile)
+
+</td>
+<td width="50%" valign="top">
+
+🕹️ **MegaBonk-3D**
+
+Мобильная roguelike-survival игра (URP) для Android — волны врагов, лут, перки, адаптивная сложность.
+**Stack:** `C#` `Unity` `URP`
+[→ Repository](https://github.com/suli-dot/MegaBonk-3D)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🛍️ **fashion_shop**
+
+Сайт для оптовой продажи женской одежды (Fashion Opt).
+**Stack:** `Python` `Django`
+[→ Repository](https://github.com/suli-dot/fashion_shop)
+
+</td>
+<td width="50%" valign="top">
+
+📱 **Tiyn**
+
+Android-приложение на Kotlin.
+**Stack:** `Kotlin`
+[→ Repository](https://github.com/suli-dot/Tiyn)
+
+</td>
+</tr>
+</table>
