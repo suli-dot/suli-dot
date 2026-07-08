@@ -4,6 +4,9 @@
 Делаю игры на Unity, бэкенды на Django, мобайл на Kotlin и фронт на React/Next.  
 Кручу сети на MikroTik RouterOS.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD-%D1%82%D0%B0%D1%81%D0%B1%D1%83%D0%BB%D0%B0%D1%82%D0%BE%D0%B2-055814299/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Suli0905)
+
 ---
 
 ### 🛠 Стек
