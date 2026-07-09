@@ -73,7 +73,6 @@ Android-приложение на Kotlin.
 
 ### 📊 Активность
 
-![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suli-dot&show_icons=true&theme=dark&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=suli-dot&theme=dark&hide_border=true)
 
 <picture>
